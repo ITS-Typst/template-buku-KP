@@ -1,0 +1,4 @@
+[package]
+name = "template-buku-kp"
+version = "0.1.0"
+entrypoint = "main.typ"
